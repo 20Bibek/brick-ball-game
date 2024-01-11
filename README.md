@@ -1,8 +1,9 @@
-Brick Breaker Game in Python with Pygame
-Overview
+#Brick Breaker Game in Python with Pygame
+
+###Overview
 This is a simple implementation of the classic Brick Breaker game using Python and the Pygame library. The game features a paddle controlled by mouse movement, a bouncing ball, and bricks that the player must break to score points.
 
-Features
+###Features
 Classic Brick Breaker gameplay.
 Paddle control using mouse movement.
 Dynamic ball movement with wall and paddle collisions.
@@ -12,22 +13,13 @@ Attractive and animated user interface.
 Instructions
 Clone the repository to your local machine.
 
-bash
-Copy code
-git clone https://github.com/your-username/brick-breaker.git
-Install the required dependencies.
-
-bash
 Copy code
 pip install pygame
 Run the game.
 
-bash
-Copy code
-python brick_breaker.py
+
 Use your mouse to control the paddle and bounce the ball to break the bricks. Restart or quit the game after a game over.
 
-Screenshots
 
 
 Contributing
